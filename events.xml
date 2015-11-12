@@ -2,6 +2,30 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-12">
+    <action type="video">
+      Virginia Satir - Intervista - Diventare più pienamente umani
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=lIZOeC6pEvM" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-12">
+    <action type="video">
+      Virginia Satir: Communication and Congruence (excerpt) -- A Thinking Allowed DVD w/ Jeffrey Mishlove
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=vfkWnQNWCRE" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-12">
+    <action type="video">
+      Virginia Satir The Essence Change Video
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=hiOG6qsf8BU" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-12">
     <action type="podcast">
       SE-Radio Episode 238: Linda Rising on the Agile Brain
     </action>
