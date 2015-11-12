@@ -2,8 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-12">
+    <action type="podcast">
+      SE-Radio Episode 238: Linda Rising on the Agile Brain
+    </action>
+    <references>
+      <reference src="http://www.se-radio.net/2015/09/se-radio-episode-238-linda-rising-on-the-agile-brain/" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-12">
     <action type="trying">
-      My new daily activity log
+      This is my new daily activity log
     </action>
     <references>
       <reference src="https://github.com/moretto-nik/daily-activity-log" type="source" />
