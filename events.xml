@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-13">
+    <action type="video">
+      The tribes we lead
+    </action>
+    <references>
+      <reference src="http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead?utm_campaign=ios-share&utm_medium=social&source=email&utm_source=email" type="source" />
+    </references>
+  </event>
   <event date="2015-11-12">
     <action type="video">
       Virginia Satir - Intervista - Diventare più pienamente umani
