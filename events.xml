@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-23">
+    <action type="reading">
+      Cooperation vs Collaboration
+    </action>
+    <references>
+      <reference src="http://cloudhead.headmine.net/post/3279118157/cooperation-vs-collaboration" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-23">
     <action type="book">
       Mentor/Mentee from Toyota Kata
     </action>
