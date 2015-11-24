@@ -9,6 +9,14 @@
       <reference src="http://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=324" type="source" />
     </references>
   </event>
+  <event date="2015-11-22">
+    <action type="reading">
+      Iterative and Incremental
+    </action>
+    <references>
+      <reference src="http://www.se.rit.edu/~swen-256/resources/UsingBothIncrementalandIterativeDevelopment-AlistairCockburn.pdf" type="source" />
+    </references>
+  </event>
   <event date="2015-11-13">
     <action type="video">
       The tribes we lead
