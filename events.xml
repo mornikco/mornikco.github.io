@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-23">
+    <action type="book">
+      Mentor/Mentee from Toyota Kata
+    </action>
+    <references>
+      <reference src="http://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=324" type="source" />
+    </references>
+  </event>
   <event date="2015-11-13">
     <action type="video">
       The tribes we lead
