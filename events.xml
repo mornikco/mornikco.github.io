@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-23">
+    <action type="book">
+      [Toyota Kata] Mentor/Mentee examples chapter 1 to 4
+    </action>
+    <references>
+      <reference src="http://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=324" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-23">
     <action type="reading">
       Cooperation vs Collaboration
     </action>
@@ -11,7 +19,7 @@
   </event>
   <event date="2015-11-23">
     <action type="book">
-      Mentor/Mentee from Toyota Kata
+      [Toyota Kata] Mentor/Mentee
     </action>
     <references>
       <reference src="http://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=324" type="source" />
