@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-24">
+    <action type="slides">
+      Host Leadership workshop
+    </action>
+    <references>
+      <reference src="http://www.slideshare.net/ppugliese/host-leadership-workshop-at-xp-days-benelux-2014" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-24">
     <action type="book">
       [The science of successful organizational change] Growers vs knowers ~ Growth mindset vs Fixed Mindset (pag 41-49)
     </action>
