@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-24">
+    <action type="book">
+      [The science of successful organizational change] Growers vs knowers ~ Growth mindset vs Fixed Mindset (pag 41-49)
+    </action>
+    <references>
+      <reference src="http://www.amazon.com/The-Science-Successful-Organizational-Change/dp/0134000331" type="source" />
+    </references>
+  </event>
   <event date="2015-11-23">
     <action type="book">
       [Toyota Kata] Mentor/Mentee examples chapter 1 to 4
