@@ -3,6 +3,14 @@
 <events>
   <event date="2015-11-26">
     <action type="video">
+      The power of believing that you can improve
+    </action>
+    <references>
+      <reference src="https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-26">
+    <action type="video">
       Video interview Andrea Tomasini
     </action>
     <references>
