@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-26">
+    <action type="video">
+      Video interview Andrea Tomasini
+    </action>
+    <references>
+      <reference src="http://www.agile42.com/en/blog/2015/10/27/video-interview-andrea-tomasini/" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-26">
     <action type="reading">
       What is an agile leader?
     </action>
