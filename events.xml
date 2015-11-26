@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-26">
+    <action type="reading">
+      What is an agile leader?
+    </action>
+    <references>
+      <reference src="http://blog.crisp.se/2015/11/10/henrikkniberg/what-is-an-agile-leader" type="source" />
+    </references>
+  </event>
   <event date="2015-11-24">
     <action type="slides">
       Host Leadership workshop
