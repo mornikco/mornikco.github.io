@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-27">
+    <action type="reading">
+      Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives
+    </action>
+    <references>
+      <reference src="https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/" type="source" />
+    </references>
+  </event>
   <event date="2015-11-26">
     <action type="video">
       The power of believing that you can improve
