@@ -3,6 +3,14 @@
 <events>
   <event date="2015-11-27">
     <action type="reading">
+      EduScrum in class
+    </action>
+    <references>
+      <reference src="http://eduscrum.nl/en/in-class" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-27">
+    <action type="reading">
       Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives
     </action>
     <references>
