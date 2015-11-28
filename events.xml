@@ -3,6 +3,14 @@
 <events>
   <event date="2015-11-28">
     <action type="reading">
+      Real-life Agile Scaling - Henrik Kniberg
+    </action>
+    <references>
+      <reference src="http://www.infoq.com/news/2015/11/real-life-scalingBKK" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-28">
+    <action type="reading">
       The Scrum Master Skeleton
     </action>
     <references>
