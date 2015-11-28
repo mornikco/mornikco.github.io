@@ -3,6 +3,14 @@
 <events>
   <event date="2015-11-28">
     <action type="reading">
+      A review of the 3 day Coaching Agile Teams workshop with Lyssa Adkins and Michael Spayd
+    </action>
+    <references>
+      <reference src="http://www.adventureswithagile.com/2015/11/13/a-review-of-the-3-day-coaching-agile-teams-workshop-with-lyssa-adkins-and-michael-spayd/" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-28">
+    <action type="reading">
       Why Our Brains Are Wired To Create Team Conflict
     </action>
     <references>
