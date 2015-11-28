@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-28">
+    <action type="reading">
+      The Scrum Master Skeleton
+    </action>
+    <references>
+      <reference src="http://www.growingagile.co.za/2015/02/the-scrummaster-skeleton/" type="source" />
+    </references>
+  </event>
   <event date="2015-11-27">
     <action type="reading">
       EduScrum in class
