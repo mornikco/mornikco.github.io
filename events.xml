@@ -3,6 +3,14 @@
 <events>
   <event date="2015-11-28">
     <action type="reading">
+      Why Our Brains Are Wired To Create Team Conflict
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/why-our-brains-wired-create-team-conflict-bruce-eckfeldt?trk=hp-feed-article-title-like" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-28">
+    <action type="reading">
       Real-life Agile Scaling - Henrik Kniberg
     </action>
     <references>
