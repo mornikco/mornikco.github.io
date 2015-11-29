@@ -3,6 +3,14 @@
 <events>
   <event date="2015-11-29">
     <action type="reading">
+      Can a Traditional Project Manager Become a ScrumMaster?
+    </action>
+    <references>
+      <reference src="https://www.scrumalliance.org/community/articles/2015/october/can-a-traditional-project-manager-become-a-scrumma" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-29">
+    <action type="reading">
       Don't Know What I Want, But I Know How to Get It
     </action>
     <references>
