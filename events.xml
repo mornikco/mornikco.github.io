@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-29">
+    <action type="reading">
+      Don't Know What I Want, But I Know How to Get It
+    </action>
+    <references>
+      <reference src="Don’t Know What I Want, But I Know How to Get It" type="source" />
+    </references>
+  </event>
   <event date="2015-11-28">
     <action type="reading">
       A review of the 3 day Coaching Agile Teams workshop with Lyssa Adkins and Michael Spayd
