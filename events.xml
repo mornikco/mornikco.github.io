@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-11-30">
+    <action type="reading">
+      Agile Coaching and Mentoring – Wisdom Explained
+    </action>
+    <references>
+      <reference src="http://theagiletimes.com/agile-coaching-and-mentoring-wisdom-explained/" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-30">
     <action type="book">
       [The science of successful organizational change] organization models (pag 57-63)
     </action>
