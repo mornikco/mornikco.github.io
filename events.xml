@@ -3,6 +3,14 @@
 <events>
   <event date="2015-11-30">
     <action type="book">
+      [The science of successful organizational change] organization models (pag 57-63)
+    </action>
+    <references>
+      <reference src="http://www.amazon.com/The-Science-Successful-Organizational-Change/dp/0134000331" type="source" />
+    </references>
+  </event>
+  <event date="2015-11-30">
+    <action type="book">
       [The science of successful organizational change] Agile cultures in Google, IBM and 3M(pag 49-57)
     </action>
     <references>
