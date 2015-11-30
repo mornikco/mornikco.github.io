@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-11-30">
+    <action type="book">
+      [The science of successful organizational change] Agile cultures in Google, IBM and 3M(pag 49-57)
+    </action>
+    <references>
+      <reference src="http://www.amazon.com/The-Science-Successful-Organizational-Change/dp/0134000331" type="source" />
+    </references>
+  </event>
   <event date="2015-11-29">
     <action type="reading">
       Can a Traditional Project Manager Become a ScrumMaster?
