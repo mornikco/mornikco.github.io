@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-01">
     <action type="reading">
+      Standish Group 2015 Chaos Report
+    </action>
+    <references>
+      <reference src="http://www.infoq.com/articles/standish-chaos-2015" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-01">
+    <action type="reading">
       Agile: Emotional Maturity Required in Project metrics!
     </action>
     <references>
