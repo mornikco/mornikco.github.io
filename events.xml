@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-01">
+    <action type="reading">
+      Agile: Emotional Maturity Required in Project metrics!
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/agile-emotional-maturity-required-rick-freedman" type="source" />
+    </references>
+  </event>
   <event date="2015-11-30">
     <action type="reading">
       Agile Coaching and Mentoring – Wisdom Explained
