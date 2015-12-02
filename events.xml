@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-02">
+    <action type="reading">
+      How Servant Leadership Increases Agile Team Productivity
+    </action>
+    <references>
+      <reference src="http://theagiletimes.com/how-servant-leadership-increases-agile-team-productivity/" type="source" />
+    </references>
+  </event>
   <event date="2015-12-01">
     <action type="reading">
       Standish Group 2015 Chaos Report
