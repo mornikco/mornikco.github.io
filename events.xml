@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-02">
     <action type="reading">
+      People Must Be Told What To Do
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2015/10/people-must-be-told-what-to-do/" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-02">
+    <action type="reading">
       How Servant Leadership Increases Agile Team Productivity
     </action>
     <references>
