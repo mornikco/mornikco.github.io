@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-06">
+    <action type="reading">
+      Manage like Pirate
+    </action>
+    <references>
+      <reference src="http://oanasagile.blogspot.fr/2015/10/manage-like-pirate.html" type="source" />
+    </references>
+  </event>
   <event date="2015-12-02">
     <action type="reading">
       People Must Be Told What To Do
