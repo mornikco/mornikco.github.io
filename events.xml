@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-06">
     <action type="reading">
+      [Effetto Porcospino] Le vicissitudini del cambiamento
+    </action>
+    <references>
+      <reference src="http://www.ibs.it/code/9788896826911/kets-de-vries-manfred/effetto-porcospino-segreto.html" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-06">
+    <action type="reading">
       Manage like Pirate
     </action>
     <references>
@@ -11,7 +19,7 @@
   </event>
   <event date="2015-12-05">
     <action type="book">
-      Contenere i conflitti e Conversazioni coraggiose
+      [Effetto Porcospino] Contenere i conflitti e Conversazioni coraggiose
     </action>
     <references>
       <reference src="http://www.ibs.it/code/9788896826911/kets-de-vries-manfred/effetto-porcospino-segreto.html" type="source" />
