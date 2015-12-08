@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-12-08">
+    <action type="book">
+      [Toyota Kata] Mentor/Mentee
+    </action>
+    <references>
+      <reference src="http://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=324" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-08">
     <action type="video">
       Lyssa Adkins / Michael Spayd - What Would it Take to Have an Agile Enterprise?
     </action>
