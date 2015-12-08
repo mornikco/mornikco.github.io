@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-08">
+    <action type="video">
+      Lyssa Adkins / Michael Spayd - What Would it Take to Have an Agile Enterprise?
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=AyoDhdRKgiY" type="source" />
+    </references>
+  </event>
   <event date="2015-12-06">
     <action type="reading">
       [Effetto Porcospino] Le vicissitudini del cambiamento
