@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-12-10">
+    <action type="book">
+      Summary of Part IV
+    </action>
+    <references>
+      <reference src="http://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=324" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-10">
     <action type="reading">
       Satir Categories
     </action>
