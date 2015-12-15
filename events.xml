@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-12-15">
+    <action type="video">
+      #NoEstimates interview with Vasco Duarte
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=tGrtUVqGkXs" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-15">
     <action type="reading">
       Why organisations will *not* be horizontal
     </action>
