@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-15">
+    <action type="reading">
+      Why organisations will *not* be horizontal
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/why-organisations-horizontal-stelio-verzera" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-14">
+    <action type="book">
+      Collaboration Explained ~ Collaboration in planning meeting
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
   <event date="2015-12-12">
     <action type="podcast">
       LCM Podcast EP4: Culture – Can you measure it?
