@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-17">
+    <action type="reading">
+      How to combine Design Thinking and Agile in practice
+    </action>
+    <references>
+      <reference src="https://medium.com/startup-study-group/how-to-combine-design-thinking-and-agile-in-practice-36c9fc75c6e6#.jnwtwrigz" type="source" />
+    </references>
+  </event>
   <event date="2015-12-15">
     <action type="video">
       #NoEstimates interview with Vasco Duarte
