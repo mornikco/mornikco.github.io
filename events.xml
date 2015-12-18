@@ -3,18 +3,26 @@
 <events>
   <event date="2015-12-18">
     <action type="reading">
+      Sharing is Caring – Why Transparency is Necessary in Agile Teams
+    </action>
+    <references>
+      <reference src="http://theagiletimes.com/sharing-is-caring-transparency-in-agile-teams/" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-18">
+    <action type="reading">
       The Scrum Master Maturity Model
     </action>
     <references>
       <reference src="https://stwunder.wordpress.com/2014/07/28/the-scrum-master-maturity-model/" type="source" />
+    </references>
+  </event>
   <event date="2015-12-17">
     <action type="book">
       [Toyota Kata]Training Through Frequent Coaching Cycles and the Five Questions
     </action>
     <references>
       <reference src="http://www.lean.org/Bookstore/ProductDetails.cfm?SelectedProductId=324" type="source" />
-    </references>
-  </event>
     </references>
   </event>
   <event date="2015-12-17">
