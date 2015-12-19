@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-19">
+    <action type="video">
+      How to Develop a Great Scrum Master
+    </action>
+    <references>
+      <reference src="http://www.infoq.com/presentations/hire-scrum-master" type="source" />
+    </references>
+  </event>
   <event date="2015-12-18">
     <action type="reading">
       Sharing is Caring – Why Transparency is Necessary in Agile Teams
