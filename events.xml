@@ -4,6 +4,7 @@
   <event date="2015-12-19">
     <action type="video">
       How to Develop a Great Scrum Master
+      Note: la maturita' dello SM e' in relazione con la maturita' del team. Probabilmente la maturita' dello SM dovrebbe essere sempre uno step piu' avanti.
     </action>
     <references>
       <reference src="http://www.infoq.com/presentations/hire-scrum-master" type="source" />
