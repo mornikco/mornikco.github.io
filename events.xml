@@ -3,8 +3,9 @@
 <events>
   <event date="2015-12-19">
     <action type="video">
-      How to Develop a Great Scrum Master </br>
-      Note: la maturita' dello SM e' in relazione con la maturita' del team. Probabilmente la maturita' dello SM dovrebbe essere sempre uno piccolissimo step piu' avanti. Lo SM cresce insieme al team e passa da Dude a Mom a True; oppure deve adattare il suo stile al team.
+      How to Develop a Great Scrum Master
+    <br>
+      Note: la maturita' dello SM e' in relazione con la maturita' del team. Probabilmente la maturita' dello SM dovrebbe essere sempre uno piccolissimo step piu' avanti. Lo SM cresce insieme al team e passa da Dude a Mom a True, oppure deve adattare il suo stile al team.
     </action>
     <references>
       <reference src="http://www.infoq.com/presentations/hire-scrum-master" type="source" />
