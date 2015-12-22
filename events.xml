@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-22">
     <action type="book">
+      [Toyota kata] Where DoYou Start with the Improvement Kata?
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-22">
+    <action type="book">
       [Toyota kata] Conclusions
     </action>
     <references>
