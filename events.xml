@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-12-22">
+    <action type="book">
+      [Toyota kata] Conclusions
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-22">
     <action type="reading">
       Changing the Culture of an Organization
     </action>
