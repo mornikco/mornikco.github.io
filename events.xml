@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-22">
+    <action type="reading">
+      Changing the Culture of an Organization
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/changing-culture-organization-tomas-kejzlar?trk=hp-feed-article-title-ppl-follow" type="source" />
+    </references>
+  </event>
   <event date="2015-12-19">
     <action type="book">
       [Toyota kata] Making a Plan
