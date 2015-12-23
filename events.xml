@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-12-23">
+    <action type="book">
+      [Toyota kata] Process Analysis
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-23">
     <action type="reading">
       Perspective Mapping
     </action>
