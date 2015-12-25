@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-25">
+    <action type="reading">
+      Cargo Cult Agile
+    </action>
+    <references>
+      <reference src="http://www.jamesshore.com/Blog/Cargo-Cult-Agile.html" type="source" />
+    </references>
+  </event>
   <event date="2015-12-23">
     <action type="book">
       [Toyota kata] Process Analysis
