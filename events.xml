@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-12-25">
+    <action type="video">
+      Standard Work
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=qWTyFNa0OsM" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-25">
     <action type="reading">
       Cargo Cult Agile
     </action>
