@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-26">
     <action type="reading">
+      3 Reasons Why Agile Training Is Not Enough
+    </action>
+    <references>
+      <reference src="http://www.agile42.com/en/blog/2015/09/10/3-reasons-why-agile-training-not-enough/" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-26">
+    <action type="book">
       [Effetto Porcospino] Il cambiamento organizzativo
     </action>
     <references>
