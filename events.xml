@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-26">
     <action type="reading">
+      Q&A on The Agile Mind-Set
+    </action>
+    <references>
+      <reference src="http://www.infoq.com/articles/book-review-the-agile-mindset" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-26">
+    <action type="reading">
       3 Reasons Why Agile Training Is Not Enough
     </action>
     <references>
