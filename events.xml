@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-26">
+    <action type="reading">
+      [Effetto Porcospino] Il cambiamento organizzativo
+    </action>
+    <references>
+      <reference src="http://www.ibs.it/code/9788896826911/kets-de-vries-manfred/effetto-porcospino-segreto.html" type="source" />
+    </references>
+  </event>
   <event date="2015-12-25">
     <action type="video">
       Standard Work
