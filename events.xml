@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-28">
+    <action type="reading">
+     7 Reasons Why Some Corporations Hate Agile Methodologies
+    </action>
+    <references>
+      <reference src="http://theagiletimes.com/7-reasons-why-some-corporations-hate-agile-methodologies/" type="source" />
+    </references>
+  </event>
   <event date="2015-12-26">
     <action type="reading">
      The Number One Mistake You Make When Trying to Change Your Organization’s Culture
