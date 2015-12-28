@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-28">
     <action type="reading">
+     Creating Alignment for Agile Transformation with Canvases
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2014/02/how-to-create-alignment-for-agile-transformation-with-canvases/" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-28">
+    <action type="reading">
      Using Agile Practices with ADKAR
     </action>
     <references>
