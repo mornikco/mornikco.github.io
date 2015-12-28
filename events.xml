@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-28">
     <action type="reading">
+     Using Agile Practices with ADKAR
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2014/04/using-agile-practices-with-adkar/" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-28">
+    <action type="reading">
      7 Reasons Why Some Corporations Hate Agile Methodologies
     </action>
     <references>
