@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2015-12-29">
+    <action type="book">
+     [Host] Time for a New Look at Leadership
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-29">
     <action type="reading">
      THE 12 PRINCIPLES ICE-BREAKER
     </action>
