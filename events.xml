@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-29">
+    <action type="reading">
+     The Values of Being Self-Made For Agile Learning
+    </action>
+    <references>
+      <reference src="http://theagiletimes.com/the-values-of-being-self-made-for-agile-learning/" type="source" />
+    </references>
+  </event>
   <event date="2015-12-28">
     <action type="reading">
      Creating Alignment for Agile Transformation with Canvases
