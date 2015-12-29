@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-29">
     <action type="reading">
+     THE 12 PRINCIPLES ICE-BREAKER
+    </action>
+    <references>
+      <reference src="http://blog.oikosofy.com/the-12-principles-ice-breaker-agile-retrospectives-exercise/" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-29">
+    <action type="reading">
      The Values of Being Self-Made For Agile Learning ~ Remember that the Scrum Master is not just a role, but also a role model
     </action>
     <references>
