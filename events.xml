@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-30">
+    <action type="book">
+     [Host] The leader as host
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
   <event date="2015-12-29">
     <action type="book">
      [Host] Time for a New Look at Leadership
