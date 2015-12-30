@@ -3,6 +3,14 @@
 <events>
   <event date="2015-12-30">
     <action type="book">
+     [Host] Getting the most out of this book
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2015-12-30">
+    <action type="book">
      [Host] The leader as host
     </action>
     <references>
