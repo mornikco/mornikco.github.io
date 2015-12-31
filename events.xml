@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2015-12-31">
+    <action type="book">
+     [The Agile Mind-Set] Introduction
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
   <event date="2015-12-30">
     <action type="book">
      [Host] Getting the most out of this book
