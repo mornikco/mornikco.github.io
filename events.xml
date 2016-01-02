@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-01-02">
+    <action type="book">
+     [The Agile Mind-Set] Agile Values
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
   <event date="2016-01-01">
     <action type="book">
      [The Agile Mind-Set] Chapter 1 The Big Picture
