@@ -3,6 +3,14 @@
 <events>
   <event date="2016-01-03">
     <action type="book">
+     [Host] Chapter 3 What Do Hosts Do?
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2016-01-03">
+    <action type="book">
      [Host] Welcoming – a big chance for openness and connection
     </action>
     <references>
