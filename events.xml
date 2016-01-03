@@ -3,6 +3,14 @@
 <events>
   <event date="2016-01-02">
     <action type="book">
+     [The Agile Mind-Set] Agile Beliefs
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2016-01-02">
+    <action type="book">
      [The Agile Mind-Set] Agile Values
     </action>
     <references>
