@@ -3,6 +3,14 @@
 <events>
   <event date="2016-01-03">
     <action type="book">
+     [The Agile Mind-Set] When Is Agile a Good Fit?
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2016-01-03">
+    <action type="book">
      [The Agile Mind-Set] Agile Principles
     </action>
     <references>
