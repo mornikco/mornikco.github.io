@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-01-04">
+    <action type="book">
+     [Host] Hosting in practice: six roles
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
   <event date="2016-01-03">
     <action type="book">
      [Host] What do we do, as a Host?
