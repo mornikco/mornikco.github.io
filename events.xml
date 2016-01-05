@@ -3,6 +3,14 @@
 <events>
   <event date="2016-01-05">
     <action type="book">
+     [The Agile Mind-Set] Deciding What to Work On
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
+  <event date="2016-01-05">
+    <action type="book">
       [Host] Four position for a Host Leader
     </action>
     <references>
