@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-01-10">
+    <action type="book">
+     [The Agile Mind-Set] Deciding What to Work On ~ Experimentation
+    </action>
+    <references>
+      <reference src="" type="source" />
+    </references>
+  </event>
   <event date="2016-01-08">
     <action type="book">
      [The Agile Mind-Set] Deciding What to Work On ~ Field Testing
