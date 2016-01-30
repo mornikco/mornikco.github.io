@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-01-30">
+    <action type="video">
+     Organizational Change Myths and Patterns for Evangelists by Linda Rising
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=PJWKvkfbPo0" type="source" />
+    </references>
+  </event>
   <event date="2016-01-15">
     <action type="book">
      [Host] A User’s Guide to the Future ~ Tiny signs of progress
