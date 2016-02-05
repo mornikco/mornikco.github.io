@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-05">
+    <action type="reading">
+     L'erba "voglio" esiste nel giardino dei Re
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/lerba-voglio-esiste-nel-giardino-dei-re-valeria-arrigoni?trk=hp-feed-article-title-like" type="source" />
+    </references>
+  </event>
   <event date="2016-01-30">
     <action type="video">
      Organizational Change Myths and Patterns for Evangelists by Linda Rising
