@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-13">
+    <action type="reading">
+      The Third Wave of Agile
+    </action>
+    <references>
+      <reference src="http://www.solutionsiq.com/the-third-wave-of-agile/" type="source" />
+    </references>
+  </event>
   <event date="2016-02-05">
     <action type="reading">
      L'erba "voglio" esiste nel giardino dei Re
