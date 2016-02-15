@@ -3,6 +3,14 @@
 <events>
   <event date="2016-02-15">
     <action type="reading">
+      Agile Has Not Crossed the Chasm, A Contrarian View
+    </action>
+    <references>
+      <reference src="http://www.jrothman.com/articles/2013/01/agile-has-not-crossed-the-chasm-a-contrarian-view/" type="source" />
+    </references>
+  </event>
+  <event date="2016-02-15">
+    <action type="reading">
       Adopting Agile – Breaking the Cycle of Insanity
     </action>
     <references>
