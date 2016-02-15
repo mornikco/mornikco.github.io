@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-15">
+    <action type="reading">
+      Adopting Agile – Breaking the Cycle of Insanity
+    </action>
+    <references>
+      <reference src="http://theagiletimes.com/adopting-agile-breaking-the-cycle-of-insanity/" type="source" />
+    </references>
+  </event>
   <event date="2016-02-13">
     <action type="reading">
       The Third Wave of Agile
