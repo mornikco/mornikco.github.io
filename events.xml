@@ -3,6 +3,14 @@
 <events>
   <event date="2016-02-15">
     <action type="reading">
+      The Agile Manager’s Practice: Seeding and Cultivating Agile Champions
+    </action>
+    <references>
+      <reference src="http://www.agilecoachinginstitute.com/the-agile-managers-practice-seeding-and-cultivating-agile-champions/" type="source" />
+    </references>
+  </event>
+  <event date="2016-02-15">
+    <action type="reading">
       Agile Has Not Crossed the Chasm, A Contrarian View
     </action>
     <references>
