@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-17">
+    <action type="reading">
+      Product Storytelling
+    </action>
+    <references>
+      <reference src="http://oanasagile.blogspot.it/2016/02/product-storytelling.html" type="source" />
+    </references>
+  </event>
   <event date="2016-02-15">
     <action type="reading">
       The Agile Manager’s Practice: Seeding and Cultivating Agile Champions
