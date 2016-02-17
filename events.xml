@@ -3,6 +3,14 @@
 <events>
   <event date="2016-02-17">
     <action type="reading">
+      My Personal Agile Journey
+    </action>
+    <references>
+      <reference src="https://davenicolette.wordpress.com/2012/08/04/my-personal-agile-journey/" type="source" />
+    </references>
+  </event>
+  <event date="2016-02-17">
+    <action type="reading">
       Product Storytelling
     </action>
     <references>
