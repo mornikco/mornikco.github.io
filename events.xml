@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-23">
+    <action type="reading">
+      Does a Scrum Team Need a Retrospective Every Sprint?
+    </action>
+    <references>
+      <reference src="http://www.mountaingoatsoftware.com/blog/does-a-scrum-team-need-a-retrospective-every-sprint" type="source" />
+  <event date="2016-02-17">
+    <action type="reading">
+      My Personal Agile Journey
+    </action>
+    <references>
+      <reference src="https://davenicolette.wordpress.com/2012/08/04/my-personal-agile-journey/" type="source" />
+    </references>
+  </event>
+    </references>
+  </event>
   <event date="2016-02-17">
     <action type="reading">
       My Personal Agile Journey
