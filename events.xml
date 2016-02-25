@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-25">
+    <action type="reading">
+      When Project move Faster
+    </action>
+    <references>
+      <reference src="http://blog.avanscoperta.it/it/2016/02/23/certified-scrum-master-when-projects-move-faster/" type="source" />
+    </references>
+  </event>
+  <event date="2016-02-25">
+    <action type="reading">
+      Building Your Own Change Management Framework
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2014/09/building-your-own-change-management-framework/" type="source" />
+    </references>
+  </event>
   <event date="2016-02-23">
     <action type="reading">
       Is agile costing you too much?
