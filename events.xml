@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-02-28">
+    <action type="reading">
+      Creating Alignment for Agile Change at Agile and Beyond 2015
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2015/05/creating-alignment-for-agile-change-at-agile-and-beyond-2015/" type="source" />
+    </references>
+  </event>
   <event date="2016-02-25">
     <action type="reading">
       When Project move Faster
