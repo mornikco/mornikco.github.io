@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-01">
+    <action type="reading">
+      Tutto il potere ai developers!
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/tutto-il-potere-ai-developers-emiliano-pecis" type="source" />
+    </references>
+  </event>
   <event date="2016-02-28">
     <action type="reading">
       Creating Alignment for Agile Change at Agile and Beyond 2015
