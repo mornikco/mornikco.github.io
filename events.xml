@@ -3,6 +3,14 @@
 <events>
   <event date="2016-03-01">
     <action type="reading">
+      Il sacrificio non e' valore
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/cari-manager-il-sacrificio-non-%C3%A8-un-valore-emiliano-pecis" type="source" />
+    </references>
+  </event>
+  <event date="2016-03-01">
+    <action type="reading">
       Tutto il potere ai developers!
     </action>
     <references>
