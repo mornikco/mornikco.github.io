@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-02">
+    <action type="reading">
+      Agile Enablement Failures
+    </action>
+    <references>
+      <reference src="https://www.getrevue.co/profile/carloz/archive/13588" type="source" />
+    </references>
+  </event>
   <event date="2016-03-01">
     <action type="reading">
       Il sacrificio non e' valore
