@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-03-04">
+    <action type="video">
+      How great leaders inspire action
+    </action>
+    <references>
+      <reference src="https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action" type="source" />
+    </references>
+  </event>
+  <event date="2016-03-04">
     <action type="reading">
       Diana Larsen on the Conditions for Best Job Ever, Team Communication and Five Rules of Learning
     </action>
