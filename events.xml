@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-10">
+    <action type="reading">
+      Agile needs Coaching
+    </action>
+    <references>
+      <reference src="http://www.benlinders.com/2015/agile-needs-coaching" type="source" />
+    </references>
+  </event>
   <event date="2016-03-04">
     <action type="reading">
       HOW TO BUILD A GREAT COMPANY
