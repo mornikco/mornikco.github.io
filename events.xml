@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-15">
+    <action type="video">
+      Continuous Improvement Webinar with Ben Linders
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=H9s2VDnWYOo" type="source" />
+    </references>
+  </event>
   <event date="2016-03-10">
     <action type="reading">
       Agile needs Coaching
