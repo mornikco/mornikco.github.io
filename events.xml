@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-16">
+    <action type="video">
+      Navigating the Complexity of Organizational Change
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=Gc04pcSbgzQ" type="source" />
+    </references>
+  </event>
   <event date="2016-03-15">
     <action type="video">
       Continuous Improvement Webinar with Ben Linders
