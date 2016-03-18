@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-18">
+    <action type="reading">
+      Change VS Transformation
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2014/12/change-vs-transformation/" type="source" />
+    </references>
+  </event>
   <event date="2016-03-16">
     <action type="video">
       Navigating the Complexity of Organizational Change
