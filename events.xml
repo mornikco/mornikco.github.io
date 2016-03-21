@@ -3,6 +3,14 @@
 <events>
   <event date="2016-03-21">
     <action type="reading">
+      Follow up with FEELING
+    </action>
+    <references>
+      <reference src="https://www.scrumalliance.org/community/articles/2014/january/follow-up-with-feeling" type="source" />
+    </references>
+  </event>
+  <event date="2016-03-21">
+    <action type="reading">
       Create new thinking by one on one coaching - CREATE
     </action>
     <references>
