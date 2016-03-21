@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-21">
+    <action type="video">
+      How to Delegate Better with the 7 Delegation Levels - Jurgen Appelo
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=VZF-G7MCSG4" type="source" />
+    </references>
+  </event>
   <event date="2016-03-18">
     <action type="reading">
       Change VS Transformation
