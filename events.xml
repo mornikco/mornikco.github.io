@@ -3,6 +3,14 @@
 <events>
   <event date="2016-03-22">
     <action type="reading">
+      Seven Tips to Plan Your Next Meeting with Clients
+    </action>
+    <references>
+      <reference src="https://www.thoughtworks.com/insights/blog/seven-tips-plan-your-next-meeting-clients" type="source" />
+    </references>
+  </event>
+  <event date="2016-03-22">
+    <action type="reading">
       What every change agent needs to know about change
     </action>
     <references>
