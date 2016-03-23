@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-03-23">
+    <action type="reading">
+      7 Wastes of Change Management
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2014/09/7-wastes-of-change-management/" type="source" />
+    </references>
+  </event>
   <event date="2016-03-22">
     <action type="reading">
       Seven Tips to Plan Your Next Meeting with Clients
