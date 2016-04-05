@@ -3,6 +3,22 @@
 <events>
   <event date="2016-04-05">
     <action type="reading">
+      AGILE COACHING CANVAS: A GUIDE TO A COACHING SESSION
+    </action>
+    <references>
+      <reference src="http://www.agiletrainings.eu/2016/03/25/agile-coaching-canvas-a-guide-to-a-coaching-session/" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-05">
+    <action type="reading">
+      A brilliant way how to clarify the ScrumMaster role
+    </action>
+    <references>
+      <reference src="http://lmsgoncalves.com/2016/04/03/brilliant-way-clarify-scrummaster-role/" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-05">
+    <action type="reading">
       How to give an awesome presentation
     </action>
     <references>
