@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-04-05">
+    <action type="video">
+      Using Change Canvases – A Story from Agile 2015
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2015/08/using-change-canvases-a-story-from-agile-2015/" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-05">
     <action type="reading">
       AGILE COACHING CANVAS: A GUIDE TO A COACHING SESSION
     </action>
