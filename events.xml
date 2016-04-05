@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-04-05">
+    <action type="reading">
+      How to give an awesome presentation
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/how-to-give-an-awesome-presentation/" type="source" />
+    </references>
+  </event>
   <event date="2016-04-03">
     <action type="reading">
-      KATA for an AGILE coach?
+      KATA for an AGILE coach
     </action>
     <references>
       <reference src="https://www.linkedin.com/pulse/kata-agile-coach-chandan-lal-patary-pmp-csm-cssgb" type="source" />
