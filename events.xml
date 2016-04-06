@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-04-06">
+    <action type="game">
+      Kanban simulation game
+    </action>
+    <references>
+      <reference src="http://www.kanbansim.org/boards/60a55079299f675487b90a928e53d89e" type="source" />
+    </references>
+  </event>
   <event date="2016-04-05">
     <action type="video">
       Using Change Canvases – A Story from Agile 2015
