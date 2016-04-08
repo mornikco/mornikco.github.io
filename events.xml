@@ -3,6 +3,14 @@
 <events>
   <event date="2016-04-08">
     <action type="reading">
+      13 public speaking mistakes you don't want to make
+    </action>
+    <references>
+      <reference src="http://uk.businessinsider.com/avoid-these-public-speaking-mistakes-2016-2" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-08">
+    <action type="reading">
       Listening To Awareness
     </action>
     <references>
