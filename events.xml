@@ -3,6 +3,14 @@
 <events>
   <event date="2016-04-08">
     <action type="reading">
+      Listening To Awareness
+    </action>
+    <references>
+      <reference src="http://oanasagile.blogspot.it/2016/01/listening-to-awareness.html" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-08">
+    <action type="reading">
       Blaming culture - when modern society’s greatest limitation prevails over meritocracy
     </action>
     <references>
