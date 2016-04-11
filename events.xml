@@ -3,6 +3,14 @@
 <events>
   <event date="2016-04-11">
     <action type="reading">
+      20 Product Owners Anti Patterns in Scrum
+    </action>
+    <references>
+      <reference src="http://lmsgoncalves.com/2014/09/29/product-owner-anti-patterns/" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-11">
+    <action type="reading">
       Il modello Cynefin: la complessità raccontata con semplicità
     </action>
     <references>
