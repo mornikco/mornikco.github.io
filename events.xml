@@ -3,6 +3,14 @@
 <events>
   <event date="2016-04-11">
     <action type="reading">
+      [Retrospective Format] Trust-spective: how to discuss trust with your teams
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/trust-spective-how-discuss-trust-your-teams-alexey-pikulev" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-11">
+    <action type="reading">
       20 Product Owners Anti Patterns in Scrum
     </action>
     <references>
