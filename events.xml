@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-04-11">
+    <action type="reading">
+      Il modello Cynefin: la complessità raccontata con semplicità
+    </action>
+    <references>
+      <reference src="http://rivista.lab30.it/innovazione-manageriale/275-il-modello-cynefin-la-complessita-raccontata-con-semplicita" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-11">
     <action type="video">
       Scrum at Scale by Jeff Sutherland
     </action>
