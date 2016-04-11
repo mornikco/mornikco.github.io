@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-04-11">
+    <action type="video">
+      Scrum at Scale by Jeff Sutherland
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=qEqrESsNWYs" type="source" />
+    </references>
+  </event>
   <event date="2016-04-08">
     <action type="reading">
       13 public speaking mistakes you don't want to make
