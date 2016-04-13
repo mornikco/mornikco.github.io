@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-04-13">
+    <action type="reading">
+      Blow the self sealing bubble of beliefs
+    </action>
+    <references>
+      <reference src="http://www.slideshare.net/OanaJuncu1/blow-the-self-sealing-bubble-of-beliefs" type="source" />
+    </references>
+  </event>
   <event date="2016-04-11">
     <action type="reading">
       [Retrospective Format] Trust-spective: how to discuss trust with your teams
