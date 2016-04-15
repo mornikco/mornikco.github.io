@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-04-15">
+    <action type="reading">
+      Change management e comunicazione: perché il cambiamento non è un'influenza ma una gravidanza
+    </action>
+    <references>
+      <reference src="http://www.slideshare.net/gianlucafiscato/change-management-comunicazione-perch-il-cambiamento-non-uninfluenza-ma-una-gravidanza" type="source" />
+    </references>
+  </event>
   <event date="2016-04-13">
     <action type="reading">
       My personal agile journey
