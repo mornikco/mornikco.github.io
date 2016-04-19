@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-04-19">
+    <action type="video">
+      Agile Team Working Agreements How To Guide
+    </action>
+    <references>
+      <reference src="http://www.payton-consulting.com/agile-team-working-agreements-guide/" type="source" />
+    </references>
+  </event>
   <event date="2016-04-15">
     <action type="reading">
       Change management e comunicazione: perché il cambiamento non è un'influenza ma una gravidanza
