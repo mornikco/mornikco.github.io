@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-04-26">
+    <action type="video">
+      L' Impresa - Francesco Novara - Olivetti
+    </action>
+    <references>
+      <reference src="https://focusadrianoolivetti.wordpress.com/2013/12/15/tavolo-cultura/" type="source" />
+    </references>
+  </event>
   <event date="2016-04-19">
     <action type="video">
       Agile Team Working Agreements How To Guide
