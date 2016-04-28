@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-04-28">
+    <action type="video">
+      This Inspiring Woman Took A Leap Of Faith And It Paid Off
+    </action>
+    <references>
+      <reference src="https://www.facebook.com/HuffPostWomen/videos/1039550859446300/" type="source" />
+    </references>
+  </event>
+  <event date="2016-04-28">
     <action type="reading">
       Pictionary Retrospective
     </action>
