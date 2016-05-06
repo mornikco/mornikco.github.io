@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-05-06">
+    <action type="video">
+      Apple Confidential - Steve Jobs on "Think Different" - Internal Meeting Sept. 23, 1997
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=9GMQhOm-Dqo" type="source" />
+    </references>
+  </event>
   <event date="2016-04-29">
     <action type="trello">
       Formati di retrospective
