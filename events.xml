@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-05-17">
+    <action type="video">
+      Why people believe they can’t draw - and how to prove they can | Graham Shaw | TEDxHull
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=7TXEZ4tP06c" type="source" />
+    </references>
+  </event>
   <event date="2016-05-06">
     <action type="video">
       Apple Confidential - Steve Jobs on "Think Different" - Internal Meeting Sept. 23, 1997
