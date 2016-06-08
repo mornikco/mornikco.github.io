@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-08">
+    <action type="reading">
+      NO AGENDA! A LEARNING 3.0 EXPERIMENT
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/no-agenda-a-learning-3-0-experiment" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-08">
+    <action type="reading">
+      Toyota’s journey from Waterfall to Lean software development
+    </action>
+    <references>
+      <reference src="http://blog.crisp.se/2010/03/16/henrikkniberg/1268757660000" type="source" />
+    </references>
+  </event>
   <event date="2016-05-17">
     <action type="video">
       Why people believe they can’t draw - and how to prove they can | Graham Shaw | TEDxHull
