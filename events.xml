@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-08">
     <action type="reading">
+      Why Is Agile Transformation Difficult
+    </action>
+    <references>
+      <reference src="https://www.quickscrum.com/Article/ArticleDetails/5139/3/Why-Is-Agile-Transformation-Difficult" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-08">
+    <action type="reading">
       NO AGENDA! A LEARNING 3.0 EXPERIMENT
     </action>
     <references>
