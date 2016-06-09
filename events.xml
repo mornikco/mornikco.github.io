@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-09">
+    <action type="reading">
+      Scrum Master Training by Gabrielle Benefield
+    </action>
+    <references>
+      <reference src="http://zanetabaran.com/scrum-master-training/" type="source" />
+    </references>
+  </event>
   <event date="2016-06-08">
     <action type="reading">
       Why Is Agile Transformation Difficult
