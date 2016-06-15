@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-16">
+    <action type="reading">
+      10 Lessons learned by an Agile Coach in 2015
+    </action>
+    <references>
+      <reference src="http://lmsgoncalves.com/2016/01/24/x-lessons-learned-by-an-agile-coach-in-2015/" type="source" />
+    </references>
+  </event>
   <event date="2016-06-09">
     <action type="reading">
       Scrum Master Training by Gabrielle Benefield
