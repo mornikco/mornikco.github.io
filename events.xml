@@ -3,6 +3,22 @@
 <events>
   <event date="2016-06-16">
     <action type="reading">
+      VISUAL THINKING AND LEARNING 3.0 WORKING TOGETHER
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/visual-thinking-and-learning-3-0-working-together-at-walmart-com/" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-16">
+    <action type="reading">
+      Using agile practices with adkar
+    </action>
+    <references>
+      <reference src="http://leanchange.org/2014/04/using-agile-practices-with-adkar/" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-16">
+    <action type="reading">
       10 Lessons learned by an Agile Coach in 2015
     </action>
     <references>
