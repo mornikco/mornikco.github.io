@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-17">
     <action type="reading">
+      Self-assessing How Agile You Are
+    </action>
+    <references>
+      <reference src="http://www.benlinders.com/2014/self-assessing-how-agile-you-are/" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-17">
+    <action type="reading">
       Liquefying an Organization to Increase Agility
     </action>
     <references>
