@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-17">
     <action type="reading">
+      Liquefying an Organization to Increase Agility
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/news/2014/12/liquefying-increase-agility" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-17">
+    <action type="reading">
       HOW TO IMPROVE YOUR MEETINGS BY USING THE LEARNING CANVAS
     </action>
     <references>
