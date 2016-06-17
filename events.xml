@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-17">
+    <action type="reading">
+      HOW TO IMPROVE YOUR MEETINGS BY USING THE LEARNING CANVAS
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/how-to-improve-your-meetings-by-using-the-learning-canvas/" type="source" />
+    </references>
+  </event>
   <event date="2016-06-16">
     <action type="reading">
       VISUAL THINKING AND LEARNING 3.0 WORKING TOGETHER
