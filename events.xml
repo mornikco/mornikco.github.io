@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-19">
+    <action type="reading">
+      Culture is the True North - Scaling at Jimdo
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/articles/scaling-at-jimdo" type="source" />
+    </references>
+  </event>
   <event date="2016-06-17">
     <action type="reading">
       Self-assessing How Agile You Are
