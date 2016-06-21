@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-21">
     <action type="slides">
+      How to run an effective Coaching Dojo
+    </action>
+    <references>
+      <reference src="http://www.slideshare.net/giusdesimone/how-to-run-an-effective-coaching-dojo" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-21">
+    <action type="slides">
       How to make your company Agile - The mango tree
     </action>
     <references>
