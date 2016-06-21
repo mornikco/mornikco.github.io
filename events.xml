@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-21">
+    <action type="reading">
+      Conditions for Effective Feedback
+    </action>
+    <references>
+      <reference src="http://lmsgoncalves.com/2013/12/17/conditions-for-effective-feedback" type="source" />
+    </references>
+  </event>
   <event date="2016-06-19">
     <action type="reading">
       Culture is the True North - Scaling at Jimdo
