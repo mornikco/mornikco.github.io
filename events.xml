@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-06-21">
+    <action type="slides">
+      How to make your company Agile - The mango tree
+    </action>
+    <references>
+      <reference src="http://www.slideshare.net/giusdesimone/how-to-make-your-company-agilethe-mango-tree-ltg18" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-21">
     <action type="reading">
       Team barometer (self-evaluation tool)
     </action>
