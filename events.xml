@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-06-21">
+    <action type="reading">
+      How to Recognize Team Synergy in Agile Teams
+    </action>
+    <references>
+      <reference src="http://theagiletimes.com/recognize-team-synergy-agile-teams/" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-21">
     <action type="slides">
       How to run an effective Coaching Dojo
     </action>
