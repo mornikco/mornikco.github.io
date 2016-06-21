@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-21">
     <action type="reading">
+      Team barometer (self-evaluation tool)
+    </action>
+    <references>
+      <reference src="http://blog.crisp.se/2014/01/30/jimmyjanlen/team-barometer-self-evaluation-tool" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-21">
+    <action type="reading">
       Conditions for Effective Feedback
     </action>
     <references>
