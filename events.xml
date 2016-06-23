@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-23">
     <action type="reading">
+      My individual coaching assessment guide
+    </action>
+    <references>
+      <reference src="https://davenicolette.wordpress.com/2016/02/22/my-individual-coaching-assessment-guide/" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-23">
+    <action type="reading">
       Learn to Watch and Watch to Learn
     </action>
     <references>
