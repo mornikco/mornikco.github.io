@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-23">
     <action type="reading">
+      Learn to Watch and Watch to Learn
+    </action>
+    <references>
+      <reference src="http://connexxo.com/2011/05/learn-to-watch-and-watch-to-learn.html/" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-23">
+    <action type="reading">
       The Stacey Matrix Revisited
     </action>
     <references>
