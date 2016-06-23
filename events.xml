@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-23">
     <action type="reading">
+      Dear Agile Enthusiast
+    </action>
+    <references>
+      <reference src="https://t.e2ma.net/webview/fcgvi/2825f04ce2ce45f224fe1052883df669" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-23">
+    <action type="reading">
       A Non-Violent Communication Agile Retrospective
     </action>
     <references>
