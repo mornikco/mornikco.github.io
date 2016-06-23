@@ -3,6 +3,14 @@
 <events>
   <event date="2016-06-23">
     <action type="reading">
+      The Stacey Matrix Revisited
+    </action>
+    <references>
+      <reference src="http://www.growingagile.co.za/2013/12/the-stacey-matrix-revisited/" type="source" />
+    </references>
+  </event>
+  <event date="2016-06-23">
+    <action type="reading">
       Dear Agile Enthusiast
     </action>
     <references>
