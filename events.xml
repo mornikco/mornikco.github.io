@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-24">
+    <action type="reading">
+      To coach or not to coach
+    </action>
+    <references>
+      <reference src="https://labs.spotify.com/2016/05/13/to-coach-or-not-to-coach/" type="source" />
+    </references>
+  </event>
   <event date="2016-06-23">
     <action type="reading">
       My individual coaching assessment guide
