@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-06-28">
+    <action type="reading">
+      Scaling the Product Owner Role
+    </action>
+    <references>
+      <reference src="http://www.romanpichler.com/blog/scaling-the-product-owner/" type="source" />
+    </references>
+  </event>
   <event date="2016-06-26">
     <action type="reading">
       Why we cannot learn a damn thing from Semco, or Toyota
