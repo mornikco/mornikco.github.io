@@ -3,6 +3,14 @@
 <events>
   <event date="2016-07-04">
     <action type="reading">
+      WE TRUST WHO WE KNOW
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/we-trust-who-we-know/" type="source" />
+    </references>
+  </event>
+  <event date="2016-07-04">
+    <action type="reading">
       THE COLLABORATOR: HOW WE CREATED INFORMAL JOB TITLES
     </action>
     <references>
