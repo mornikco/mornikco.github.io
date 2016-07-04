@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-07-04">
+    <action type="slides">
+      Hiring or Growing Right Agile Coach by Lyssa Adkins and Michael Spayd
+    </action>
+    <references>
+      <reference src="http://www.slideshare.net/agileindia/hiring-or-growing-right-agile-coach-by-lyssa-adkins-and-michael-spayd" type="source" />
+    </references>
+  </event>
   <event date="2016-06-28">
     <action type="reading">
       Scaling the Product Owner Role
