@@ -3,6 +3,14 @@
 <events>
   <event date="2016-07-04">
     <action type="slides">
+      Introducing kanban through its values
+    </action>
+    <references>
+      <reference src="http://www.slideshare.net/asplake/2013-04-lkna13-introducing-kanban-through-its-values-12" type="source" />
+    </references>
+  </event>
+  <event date="2016-07-04">
+    <action type="slides">
       Hiring or Growing Right Agile Coach by Lyssa Adkins and Michael Spayd
     </action>
     <references>
