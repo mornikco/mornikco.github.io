@@ -2,6 +2,22 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-07-04">
+    <action type="reading">
+      THE COLLABORATOR: HOW WE CREATED INFORMAL JOB TITLES
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/how-to-create-informal-job-titles/" type="source" />
+    </references>
+  </event>
+  <event date="2016-07-04">
+    <action type="video">
+      Interview mit Andrea Tomasini bei der Manage Agile 2015
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=IO2hUIrIA6o" type="source" />
+    </references>
+  </event>
+  <event date="2016-07-04">
     <action type="slides">
       Introducing kanban through its values
     </action>
