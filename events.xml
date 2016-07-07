@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-07-07">
+    <action type="reading">
+      Innovation Leadership
+    </action>
+    <references>
+      <reference src="http://us10.campaign-archive1.com/?u=a6f0e5a9387bd15740666582b&id=e1a1f86e7e&e=759cbd4fd8" type="source" />
+    </references>
+  </event>
   <event date="2016-07-04">
     <action type="reading">
       WE TRUST WHO WE KNOW
