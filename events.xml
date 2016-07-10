@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-07-10">
+    <action type="reading">
+      Accelerate
+    </action>
+    <references>
+      <reference src="https://hbr.org/2012/11/accelerate" type="source" />
+    </references>
+  </event>
   <event date="2016-07-04">
     <action type="reading">
       WE TRUST WHO WE KNOW
