@@ -3,6 +3,14 @@
 <events>
   <event date="2016-07-10">
     <action type="reading">
+      THE SEVEN PRINCIPLES OF MANAGING FOR CREATIVITY
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/the-seven-principles-of-managing-for-creativity/" type="source" />
+    </references>
+  </event>
+  <event date="2016-07-10">
+    <action type="reading">
       Accelerate
     </action>
     <references>
