@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-07-11">
+    <action type="reading">
+      8 Ways to Measure Your Impact as an Agile Coach
+    </action>
+    <references>
+      <reference src="http://illustratedagile.com/2016/04/25/8-ways-measure-impact-agile-coach/" type="source" />
+    </references>
+  </event>
   <event date="2016-07-10">
     <action type="reading">
       THE SEVEN PRINCIPLES OF MANAGING FOR CREATIVITY
