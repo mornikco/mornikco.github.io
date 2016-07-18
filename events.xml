@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-07-18">
+    <action type="reading">
+      Make improvement stories a key part of your Scrum
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/make-improvement-stories-key-part-your-scrum-robin-dymond" type="source" />
+    </references>
+  </event>
   <event date="2016-07-11">
     <action type="reading">
       8 Ways to Measure Your Impact as an Agile Coach
