@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-07-19">
+    <action type="reading">
+      A Letter to the Manager: Release the Power of Your Agile Teams
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/articles/release-power-agile-teams" type="source" />
+    </references>
+  </event>
   <event date="2016-07-18">
     <action type="reading">
       Make improvement stories a key part of your Scrum
