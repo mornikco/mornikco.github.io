@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-07-20">
+    <action type="podcast">
+      What is Happiness? Happy Melly Founder, Jurgen Appelo
+    </action>
+    <references>
+      <reference src="http://www.stitcher.com/podcast/the-happy-melly-podcast/e/45371520" type="source" />
+    </references>
+  </event>
   <event date="2016-07-19">
     <action type="video">
       Returning to the Heart of Agile with Alistair Cockburn
