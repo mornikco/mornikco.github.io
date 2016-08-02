@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-08-02">
+    <action type="reading">
+      Embracing Agile
+    </action>
+    <references>
+      <reference src="https://hbr.org/2016/05/embracing-agile" type="source" />
+    </references>
+  </event>
   <event date="2016-07-28">
     <action type="video">
       Stop Teaching, Start Learning | Mariappan Jawaharial | TEDxEchoPark
