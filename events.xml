@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-08-18">
+    <action type="reading">
+      Emotional intelligence: LSP for conflict resolution
+    </action>
+    <references>
+      <reference src="http://seriousplaypro.com/2016/03/05/emotional-intelligence-lsp-for-conflict-resolution/" type="source" />
+    </references>
+  </event>
   <event date="2016-08-02">
     <action type="reading">
       Embracing Agile
