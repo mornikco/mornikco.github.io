@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-08-23">
+    <action type="video">
+      LeadingAgile Live - Esther Derby
+    </action>
+    <references>
+      <reference src="https://vimeo.com/176484410" type="source" />
+    </references>
+  </event>
   <event date="2016-08-18">
     <action type="reading">
       Emotional intelligence: LSP for conflict resolution
