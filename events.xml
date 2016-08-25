@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-08-25">
+    <action type="video">
+      Five ted talks to inspire and motivate change
+    </action>
+    <references>
+      <reference src="http://www.happymelly.com/five-ted-talks-to-inspire-and-motivate-change/" type="source" />
+    </references>
+  </event>
   <event date="2016-08-23">
     <action type="video">
       LeadingAgile Live - Esther Derby
