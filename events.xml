@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2016-08-25">
+    <action type="reading">
+      Velocity or Value
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/velocity-value-saumya-nigam?trk=hp-feed-article-title-like" type="source" />
+    </references>
+  </event>
+  <event date="2016-08-25">
     <action type="video">
       Five ted talks to inspire and motivate change
     </action>
