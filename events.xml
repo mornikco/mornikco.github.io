@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-09-06">
+    <action type="reading">
+      The Backlog
+    </action>
+    <references>
+      <reference src="http://ronjeffries.com/articles/015-10/the-backlog/article.html" type="source" />
+    </references>
+  </event>
   <event date="2016-08-31">
     <action type="video">
       When we can call a team or organization Agile
