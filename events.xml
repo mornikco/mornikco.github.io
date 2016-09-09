@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-09-08">
+    <action type="reading">
+      Scrum Master as Change Agent, everything what you need to know
+    </action>
+    <references>
+      <reference src="http://lmsgoncalves.com/2016/09/05/scrum-master-as-change-agent/" type="source" />
+    </references>
+  </event>
   <event date="2016-09-06">
     <action type="reading">
       The Backlog
