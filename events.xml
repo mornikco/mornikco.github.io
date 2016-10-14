@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-10-14">
+    <action type="reading">
+      PRODUCT OWNERS DON'T CUT WOOD
+    </action>
+    <references>
+      <reference src="http://my2centsonagile.blogspot.it/2016/10/product-owners-dont-cut-wood.html" type="source" />
+    </references>
+  </event>
   <event date="2016-09-08">
     <action type="reading">
       Scrum Master as Change Agent, everything what you need to know
