@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-11-02">
+    <action type="reading">
+      Less is More ... The Art of Clean Language
+    </action>
+    <references>
+      <reference src="Less is More ... The Art of Clean Language" type="source" />
+    </references>
+  </event>
   <event date="2016-10-14">
     <action type="reading">
       PRODUCT OWNERS DON'T CUT WOOD
