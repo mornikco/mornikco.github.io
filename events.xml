@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-11-28">
+    <action type="video">
+      Accelerate! The Evolution of the 21st Century Organization
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=Pc7EVXnF2aI" type="source" />
+    </references>
+  </event>
   <event date="2016-11-02">
     <action type="reading">
       Less is More ... The Art of Clean Language
