@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-12-15">
+    <action type="site">
+      remote retrospective
+    </action>
+    <references>
+      <reference src="https://retrium.com" type="source" />
+    </references>
+  </event>
   <event date="2016-11-30">
     <action type="reading">
       One on One (In this article there are interesting questions for one to one)
