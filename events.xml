@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-12-28">
+    <action type="reading">
+      TWO HOURS PER TEAM
+    </action>
+    <references>
+      <reference src="https://dannorth.net/2015/04/24/two-hours-per-team/" type="source" />
+    </references>
+  </event>
   <event date="2016-12-15">
     <action type="site">
       remote retrospective
