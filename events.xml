@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-12-29">
+    <action type="video">
+      Hierarchy and Network: Two Structures, One Organization
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=ZIGkUDhuUJc" type="source" />
+    </references>
+  </event>
   <event date="2016-12-28">
     <action type="reading">
       TWO HOURS PER TEAM
