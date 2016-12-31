@@ -3,6 +3,14 @@
 <events>
   <event date="2016-12-31">
     <action type="reading">
+      An Exit Strategy for the Agile Coach
+    </action>
+    <references>
+      <reference src="http://illustratedagile.com/2016/10/24/exit-strategy-agile-coach/" type="source" />
+    </references>
+  </event>
+  <event date="2016-12-31">
+    <action type="reading">
       How To Create The ‘Tree Of Teams’ That Influenced The Culture Of An Entire Bank
     </action>
     <references>
