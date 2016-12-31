@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2016-12-31">
+    <action type="reading">
+      Dual Track Agile: Focusing on Customer Value
+    </action>
+    <references>
+      <reference src="https://medium.com/kevin-on-code/dual-track-agile-focusing-on-customer-value-a2e39312585b" type="source" />
+    </references>
+  </event>
   <event date="2016-12-29">
     <action type="video">
       Hierarchy and Network: Two Structures, One Organization
