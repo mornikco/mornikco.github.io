@@ -3,6 +3,14 @@
 <events>
   <event date="2016-12-31">
     <action type="reading">
+      How To Create The ‘Tree Of Teams’ That Influenced The Culture Of An Entire Bank
+    </action>
+    <references>
+      <reference src="http://www.dkrimmer.de/2016/12/15/how-to-influence-the-culture-of-your-entire-company-with-the-tree-of-teams/" type="source" />
+    </references>
+  </event>
+  <event date="2016-12-31">
+    <action type="reading">
       Dual Track Agile: Focusing on Customer Value
     </action>
     <references>
