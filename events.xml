@@ -3,6 +3,14 @@
 <events>
   <event date="2016-1-5">
     <action type="reading">
+      Transforming the pyramid to an agile org
+    </action>
+    <references>
+      <reference src="http://blog.crisp.se/2017/01/03/jimmyjanlen/transforming-the-pyramid-to-an-agile-org" type="source" />
+    </references>
+  </event>
+  <event date="2016-1-5">
+    <action type="reading">
       Coaching in Buffer
     </action>
     <references>
