@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2017-7-18">
+    <action type="video">
+      Marc Burgauer - “What’s the worst that can happen?” - How authentic connection enables change and innovation
+    </action>
+    <references>
+      <reference src="https://vimeo.com/107609914" type="source" />
+    </references>
+  </event>
   <event date="2016-1-5">
     <action type="reading">
       Transforming the pyramid to an agile org
