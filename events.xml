@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
   <event date="2017-7-18">
+    <action type="pages">
+      the congruent management strategy
+    </action>
+    <references>
+      <reference src="http://www.clarewgraves.com/articles_content/Madden/CG_madden_1.html" type="source" />
+    </references>
+  </event>
+  <event date="2017-7-18">
     <action type="video">
       Marc Burgauer - “What’s the worst that can happen?” - How authentic connection enables change and innovation
     </action>
