@@ -3,6 +3,14 @@
 <events>
   <event date="2018-11-20">
     <action type="link">
+      coaching technical practices
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/articles/coaching-technical-practices" type="source" />
+    </references>
+  </event>
+  <event date="2018-11-20">
+    <action type="link">
       COUNTRY COMPARISON TOOL
     </action>
     <references>
