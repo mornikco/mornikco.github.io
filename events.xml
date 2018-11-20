@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-11-20">
+    <action type="link">
+      COUNTRY COMPARISON TOOL
+    </action>
+    <references>
+      <reference src="https://www.hofstede-insights.com/" type="source" />
+    </references>
+  </event>
   <event date="2017-7-18">
     <action type="pages">
       the congruent management strategy
