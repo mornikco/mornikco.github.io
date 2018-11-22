@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2018-11-22">
+    <action type="link">
+      Sopravvivere ad una codebase legacy by Paolo D'Incau e Pietro Di Bello
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=89cS7WNOLb4" type="source" />
+    </references>
+  </event>
   <event date="2018-11-20">
     <action type="link">
       coaching technical practices
