@@ -3,6 +3,14 @@
 <events>
   <event date="2019-6-11">
     <action type="link">
+      Software Hierarchy of needs
+    </action>
+    <references>
+      <reference src="https://blog.ndepend.com/lack-of-cohesion-methods/" type="source" />
+    </references>
+  </event>
+  <event date="2019-6-11">
+    <action type="link">
       What is Business Value?
     </action>
     <references>
