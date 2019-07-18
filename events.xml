@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-7-18">
+    <action type="link">
+      Basecamp book - Shape Up
+    </action>
+    <references>
+      <reference src="https://basecamp.com/shapeup" type="source" />
+    </references>
+  </event>
   <event date="2019-6-11">
     <action type="link">
       Software Hierarchy of needs
