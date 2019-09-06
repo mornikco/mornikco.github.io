@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2019-9-6">
+    <action type="link">
+      DeMarco Reflects on 40 Years of Software Engineering Evolution
+    </action>
+    <references>
+      <reference src="https://www.infoq.com/news/2009/08/demarco-software-engineering-/" type="source" />
+    </references>
+  </event>
+  <event date="2019-9-6">
+    <action type="link">
+      4 years of constant mob programming
+    </action>
+    <references>
+      <reference src="https://reallyshouldblogthis.blogspot.com/2019/07/4-years-of-constant-mob-programming.html" type="source" />
+    </references>
+  </event>
+  <event date="2019-9-6">
+    <action type="link">
+      What agile coaching means to me
+    </action>
+    <references>
+      <reference src="https://www.linkedin.com/pulse/what-agile-coaching-means-me-simon-powers/" type="source" />
+    </references>
+  </event>
   <event date="2019-7-18">
     <action type="link">
       Basecamp book - Shape Up
