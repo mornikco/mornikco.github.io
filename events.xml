@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+  <event date="2025-05-29">
+    <action type="video">
+      Early Days of Agile Development - Is Design Dead? • Martin Fowler - James Lewis • GOTO 2024
+    </action>
+    <references>
+      <reference src="https://www.youtube.com/watch?v=xsMUuOwv7IA" type="source" />
+    </references>
+  </event>
   <event date="2019-10-21">
     <action type="link">
       AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)
